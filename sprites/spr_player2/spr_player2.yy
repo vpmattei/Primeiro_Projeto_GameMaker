@@ -93,7 +93,7 @@
             "isLocked": false,
             "name": "head",
             "opacity": 100,
-            "visible": false
+            "visible": true
         },
         {
             "id": "f4425184-eb6e-4fe5-980c-38fdb1f95281",
@@ -104,7 +104,7 @@
             "isLocked": false,
             "name": "cape",
             "opacity": 100,
-            "visible": false
+            "visible": true
         },
         {
             "id": "5f71f0cf-0bab-4bb6-ad98-b2284cfc834a",
