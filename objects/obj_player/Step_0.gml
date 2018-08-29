@@ -16,7 +16,7 @@ horizontalSpeed = move * walkSpeed;
 verticalSpeed = verticalSpeed + grv;
 
 //Jumping
-if (place_meeting(x,y+1,obj_floor)) {
+if (place_meeting(x,y+1,obj_floor) && key_Jump) {
 	verticalSpeed = - jump*12;
 } 
 

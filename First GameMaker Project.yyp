@@ -162,7 +162,7 @@
             "Key": "d0f4535b-a3ae-4cbc-b66d-e6d815acb78d",
             "Value": {
                 "id": "be1c20a4-c168-4e00-91a3-d13b01a1b572",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourcePath": "sprites\\spr_player2\\spr_player2.yy",
                 "resourceType": "GMSprite"
             }
         },
