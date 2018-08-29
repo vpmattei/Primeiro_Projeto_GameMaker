@@ -17,7 +17,7 @@ verticalSpeed = verticalSpeed + grv;
 
 //Jumping
 if (place_meeting(x,y+1,obj_floor)) {
-	verticalSpeed = - jump*10;
+	verticalSpeed = - jump*12;
 } 
 
 //Horizontal Collision
